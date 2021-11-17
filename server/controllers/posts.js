@@ -1,4 +1,4 @@
 
 export const getPosts = (req, res) => {
-    res.send('GAMW TON THEO SOU GAMW!!! PAEI TO VIDEO.');
+    res.send('GAMW TO EVAGELIO SOU GAMW!!! PAEI TO VIDEO.');
 };
